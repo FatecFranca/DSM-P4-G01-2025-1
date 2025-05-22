@@ -3,6 +3,6 @@ Repositório do grupo 01 do Projeto Interdisciplinar do 4. semestre
 Alunos: 
 <ul>
 <li>Victor Hugo P. Soares</li>
-  <ul>Pedro Afonso A. Silva</ul>
-  <ul>Arthur R. Ferreira</ul> 
+  <li>Pedro Afonso A. Silva</li>
+  <li>Arthur R. Ferreira</li> 
 </ul>

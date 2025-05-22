@@ -6,6 +6,6 @@ Repositório do grupo 01 do Projeto Interdisciplinar do 4. semestre
 <ul>
 <li>Victor Hugo P. Soares</li>
   <li>Pedro Afonso A. Silva</li>
-  <li>Samuel Ribeiro Filho</li
+  <li>Samuel Ribeiro Filho</li>
   <li>Arthur R. Ferreira</li> 
 </ul>

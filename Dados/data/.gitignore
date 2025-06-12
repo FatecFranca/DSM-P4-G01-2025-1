@@ -1,0 +1,9 @@
+# Ambientes virtuais
+libs/
+
+# Arquivos de configuração local e segredos
+.env
+
+# Outros...
+__pycache__/
+*.pyc

@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "axios": "^1.8.4",
+    "bcrypt": "^5.1.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.12.1",
+    "puppeteer": "^24.9.0"
+  },
+  "devDependencies": {
+    "@babel/eslint-parser": "^7.27.0",
+    "@babel/preset-env": "^7.26.9",
+    "@babel/preset-react": "^7.26.3",
+    "@types/express": "^5.0.0",
+    "eslint": "^8",
+    "eslint-config-prettier": "^10.1.1",
+    "eslint-plugin-prettier": "^5.2.5",
+    "eslint-plugin-react": "^7.37.4",
+    "globals": "^16.0.0",
+    "husky": "^9.1.7",
+    "lint-staged": "^15.5.0"
+  },
+  "name": "pi-4-semestre",
+  "version": "1.4.0",
+  "description": "projeto clima tempo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/backend/server.js",
+    "lint": "eslint . --fix",
+    "format": "prettier --write .",
+    "prepare": "husky install",
+    "start": "node src/backend/server.js"
+  },
+  "lint-staged": {
+    "**/*.{js,jsx,ts,tsx,css}": [
+      "prettier --write",
+      "eslint --fix"
+    ]
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}

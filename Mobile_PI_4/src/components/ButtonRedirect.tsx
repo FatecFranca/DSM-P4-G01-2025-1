@@ -12,7 +12,7 @@ export default function ButtonRedirect({ onPress }: ButtonRedirect) {
         onPress={onPress}
         activeOpacity={0.7}
       >
-        <Text style={styles.text}>DASHBOARD</Text>
+        <Text style={styles.text}>DASHBOARD COMPLETO</Text>
       </TouchableOpacity>
     );
   }
@@ -25,6 +25,7 @@ export default function ButtonRedirect({ onPress }: ButtonRedirect) {
       paddingHorizontal: 8,
       alignItems: 'center',
       marginBottom: 12,
+      marginTop:15,
     },
     text: {
       color: 'white',

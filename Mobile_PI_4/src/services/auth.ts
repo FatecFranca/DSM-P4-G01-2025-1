@@ -19,3 +19,8 @@ export async function signup(user: string, email: string, password: string, conf
   });
   return response.data;
 }
+
+export async function getTemp() {
+  const response = await axios.get(`${API_URL}/api/temp`, {});
+  return response.data;
+}

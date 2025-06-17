@@ -8,6 +8,7 @@ import {
 } from 'react-native';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import ButtonRedirect from '../components/ButtonRedirect';
+import LiveScreen from '../components/LiveScreen';
 
 export default function HomeScreen({ navigation }: any) {
   const [userName, setUserName] = useState('');
@@ -32,7 +33,7 @@ export default function HomeScreen({ navigation }: any) {
     >
       <View style={styles.container}>
         <Text style={styles.welcomeText}>Bem-vindo ao Clima App!</Text>
-        <ButtonRedirect onPress={openDashboard} />
+        <LiveScreen navigation={navigation}></LiveScreen>
       </View>
     </ImageBackground>
   );

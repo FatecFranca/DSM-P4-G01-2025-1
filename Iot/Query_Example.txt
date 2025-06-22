@@ -1,0 +1,11 @@
+Conexão bem-sucedida com o MongoDB Atlas!
+
+Menu:
+1. Consulta último registro
+2. Consulta 2 últimos registros
+3. Consulta todos os registros (de 4 em 4)
+4. Sair
+Escolha uma opção: 1
+
+Último registro:
+{'_id': ObjectId('673b4ff5232e7b5427f0b157'), 'id': 10, 'mediaTemp': 32.8, 'medianaTemp': 33.0, 'modaTemp': 33.0, 'desvioPTemp': 0.48, 'coefDesvioPTemp': 1.48, 'assimetriaTemp': -0.52, 'curtoseTemp': 0.23, 'prevFutTemp': 32.14, 'coefRegrTemp': -0.04227, 'intercTemp': 33.41, 'mediaUmid': 39.3, 'medianaUmid': 39.0, 'modaUmid': 39.0, 'desvioPUmid': 0.6, 'coefDEsvioPUmid': 1.52, 'assimetriaUmid': 1.81, 'curtoseUmid': 2.12, 'prevFutUmid': 40.05, 'coefRegrUmid': 0.04828, 'intercUmid': 38.6, 'temperaturas': [34.0, 33.0, 33.0, 33.0, 33.0, 33.0, 33.0, 33.0, 33.0, 33.0, 33.0, 33.0, 33.0, 33.0, 33.0, 33.0, 33.0, 33.0, 33.0, 33.0, 33.0, 33.0, 33.0, 32.0, 32.0, 32.0, 32.0, 32.0, 32.0, 32.0], 'umidades': [39.0, 39.0, 39.0, 39.0, 39.0, 39.0, 39.0, 39.0, 39.0, 39.0, 39.0, 39.0, 39.0, 39.0, 39.0, 39.0, 39.0, 39.0, 39.0, 39.0, 39.0, 39.0, 39.0, 40.0, 40.0, 40.0, 40.0, 40.0, 41.0, 41.0], 'timestamp': datetime.datetime(2024, 11, 18, 11, 32, 21, 532000)}

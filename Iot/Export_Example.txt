@@ -1,0 +1,56 @@
+Conexão bem-sucedida com o MongoDB Atlas!
+Dados recebidos: 29,52
+Dados recebidos: 28,52
+Dados recebidos: 28,52
+Dados recebidos: 28,52
+Dados recebidos: 28,53
+Dados recebidos: 28,53
+Dados recebidos: 28,53
+Dados recebidos: 28,53
+Dados recebidos: 28,53
+Dados recebidos: 28,53
+Dados recebidos: 28,53
+Dados recebidos: 28,53
+Dados recebidos: 28,53
+Dados recebidos: 28,53
+Dados recebidos: 28,54
+Dados recebidos: 28,54
+Dados recebidos: 28,54
+Dados recebidos: 28,55
+Dados recebidos: 28,55
+Dados recebidos: 28,55
+Dados recebidos: 28,56
+Dados recebidos: 28,56
+Dados recebidos: 28,56
+Dados recebidos: 28,56
+Dados recebidos: 28,56
+Dados recebidos: 28,57
+Dados recebidos: 28,57
+Dados recebidos: 28,57
+Dados recebidos: 28,57
+Dados recebidos: 28,57
+--------------------------------------------------------------
+Leitura concluída. Estatísticas:
+Média Temperatura: 28.03
+Mediana Temperatura: 28.00
+Moda Temperatura: 28.0
+Desvio padrão Temperatura: 0.18
+Coeficiente de variação Temperatura: 0.64%
+Assimetria Temperatura: 5.20
+Curtose Temperatura: 25.03
+Coeficiente de regressão Temperatura: -0.00645
+Intercepto Temperatura: 28.13
+Previsão futura de Temperatura para o próximo valor: 27.93
+--------------------------------------------------------------
+Média Umidade: 54.33
+Mediana Umidade: 54.00
+Moda Umidade: 53.0
+Desvio padrão Umidade: 1.77
+Coeficiente de variação Umidade: 3.26%
+Assimetria Umidade: 0.28
+Curtose Umidade: -1.39
+Coeficiente de regressão Umidade: 0.19444
+Intercepto Umidade: 51.51
+Previsão futura de Umidade para o próximo valor: 57.35
+--------------------------------------------------------------
+Dados inseridos no MongoDB: {'id': 44, 'mediaTemp': 28.03, 'medianaTemp': 28.0, 'modaTemp': 28.0, 'desvioPTemp': 0.18, 'coefDesvioPTemp': 0.65, 'assimetriaTemp': 5.2, 'curtoseTemp': 25.03, 'prevFutTemp': 27.93, 'coefRegrTemp': -0.00645, 'intercTemp': 28.13, 'mediaUmid': 54.33, 'medianaUmid': 54.0, 'modaUmid': 53.0, 'desvioPUmid': 1.77, 'coefDEsvioPUmid': 3.25, 'assimetriaUmid': 0.28, 'curtoseUmid': -1.39, 'prevFutUmid': 57.35, 'coefRegrUmid': 0.19444, 'intercUmid': 51.51, 'temperaturas': [29.0, 28.0, 28.0, 28.0, 28.0, 28.0, 28.0, 28.0, 28.0, 28.0, 28.0, 28.0, 28.0, 28.0, 28.0, 28.0, 28.0, 28.0, 28.0, 28.0, 28.0, 28.0, 28.0, 28.0, 28.0, 28.0, 28.0, 28.0, 28.0, 28.0], 'umidades': [52.0, 52.0, 52.0, 52.0, 53.0, 53.0, 53.0, 53.0, 53.0, 53.0, 53.0, 53.0, 53.0, 53.0, 54.0, 54.0, 54.0, 55.0, 55.0, 55.0, 56.0, 56.0, 56.0, 56.0, 56.0, 57.0, 57.0, 57.0, 57.0, 57.0], 'timestamp': datetime.datetime(2024, 11, 18, 11, 36, 4, 328015), '_id': ObjectId('673b50d4f9ae83706c1de7a7')}

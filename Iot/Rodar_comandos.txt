@@ -1,0 +1,4 @@
+Para abrir o menu>>>>>>> 
+python Mongo_Query.py
+
+Rodar o código>>>>>>>>>
